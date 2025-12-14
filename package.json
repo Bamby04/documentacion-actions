@@ -7,6 +7,6 @@
     "test": "node test.js",
     "start": "node index.js"
   },
-  "author": "Tu Nombre",
+  "author": "William Saavedra",
   "license": "MIT"
 }
