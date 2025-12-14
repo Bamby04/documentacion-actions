@@ -1,0 +1,12 @@
+{
+  "name": "cicd-proyecto",
+  "version": "1.0.0",
+  "description": "Proyecto CI/CD con GitHub Actions para Sistemas Operativos",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "author": "Tu Nombre",
+  "license": "MIT"
+}
